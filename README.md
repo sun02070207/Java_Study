@@ -1,3 +1,2 @@
 # Java_Study
-Java_Study
-According to the video website learning Java procedures.
+Java_Study is a Java program for learning from video websites(bilibili).
